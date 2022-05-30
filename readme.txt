@@ -1,2 +1,2 @@
 Creating a new branch is quick.
-merge
+merge is no bug
